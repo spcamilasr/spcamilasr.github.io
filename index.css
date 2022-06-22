@@ -1,0 +1,64 @@
+
+    body{
+        background-color: rgb(144, 235, 220);
+    }
+
+    
+h1{
+    font-family:  mistral;
+    color: aliceblue;
+    font-size: 35pt;
+    
+text-decoration: dotted;
+text-shadow:  7px 8px 7px rgb(128, 0, 0);
+text-align: left;
+}
+h3{
+    text-align: center;
+    color: blue; 
+    background: aqua;
+    font-size: 55px;
+    margin-top: 175px;
+}
+.hoola{
+position: absolute;
+left: 100px;
+width: 100px;
+height: 100px;
+
+}
+
+
+.hola1{
+    position: absolute;
+    left: 20%;
+    width: 200px;
+        height: 200px;
+        border-radius: 20px;
+        border: 5px solid yellowgreen;
+        display: block;
+        margin: auto;
+}
+
+
+.hola2{
+    position: absolute;
+    right: 20%;
+    width: 200px;
+        height: 200px;
+        border-radius: 20px;
+        border: 5px solid yellowgreen;
+        display: block;
+        margin: auto;
+}
+
+
+h2{
+    background-color: cadetblue;
+    color: rgb(17, 96, 110);
+    font-family: monospace;
+    font-size: 30px;
+    margin-top: 270px;
+    
+}
+

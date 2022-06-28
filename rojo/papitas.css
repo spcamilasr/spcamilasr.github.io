@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(236, 236, 236);
+}
+h1 {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    text-decoration: underline;
+    color: rgb(92, 12, 167);
+    text-shadow: 5px 5px 5px thistle;
+}
+h3 {
+    font-family: 'Satisfy', cursive;
+    color: rgb(21, 201, 224);
+    text-decoration: underline;
+    border: 2pt dashed rgb(0, 217, 255);
+    width: 25%;
+    text-align: center;
+    font-size: 15pt;
+    border-radius: 30%;
+}
+.cpu {
+    position: absolute;
+    top: 300pt;
+    width: 48%;
+}
+.teclas {
+    position: absolute;
+    left: 500pt;
+    top: 300pt;
+    width: 48%;
+}
+.te {
+    width: 90%;
+}
+.mcpu {
+    width: 90%;
+}
+ol {
+    border: 2pt solid rgb(245, 203, 64);
+    color: rgb(172, 50, 5);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 40%;
+    border-radius: 30pt;
+    font-size: 15pt;
+    
+}
+p {
+    font-family: monospace;
+    font-size: 13pt;
+    color: rgb(26, 156, 33);
+    border: 2pt dotted greenyellow;
+}
+.lis {
+   width: 180pt;
+   position: relative;
+   left: 53%;
+   bottom: 200pt;
+}
+.tec{
+width: 230pt;
+}
+.mo {
+    width: 230pt;
+}
+.win {
+    width: 70%;
+}
+.t {
+    width: 60%;
+}
+.of {
+    width: 200pt;
+    position: relative;
+    left: 75%;
+    bottom: 400pt;
+}
+.lo {
+    width: 200pt;
+    position: relative;
+    left: 55%;
+    bottom: 200pt;
+}

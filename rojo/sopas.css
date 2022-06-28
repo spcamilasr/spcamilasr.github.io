@@ -1,0 +1,46 @@
+h1{
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Permanent Marker', cursive;
+  text-decoration: underline;
+  color: #ac5442;
+}
+.m{
+ text-align: start;
+ font-size: 50px;
+ font-family: 'Caveat', cursive;
+ color:#ce6d96;
+ font-weight: 800;
+}
+.c{
+    text-align: end;
+    position: relative;
+    top: 110px;
+    font-size: 50px;
+    font-family: 'Caveat', cursive;
+    color:#ce6d96;
+    font-weight: 800;
+}
+a{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    color:#8e95d9;
+}
+body{
+    background-image: url(fondooo.webp);
+}
+img{
+    height: 150px;
+    width: 250px;
+    position: relative;
+    left: 40%;
+    top: -50px;
+}
+.p{
+    height: 350px;
+    width: 350px;
+    position: relative;
+    left: 40%;
+    top: 30px;
+}
